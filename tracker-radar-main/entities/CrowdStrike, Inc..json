@@ -1,0 +1,12 @@
+{
+    "name": "CrowdStrike, Inc.",
+    "displayName": "CrowdStrike",
+    "properties": [
+        "crowdstrike.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

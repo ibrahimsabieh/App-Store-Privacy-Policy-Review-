@@ -1,0 +1,15 @@
+{
+    "name": "Zip Co US, Inc.",
+    "displayName": "Zip Co",
+    "properties": [
+        "quadpay.com",
+        "zip.co",
+        "zipmoney.com.au",
+        "zippay.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.000545,
+        "nonTracking": 0,
+        "total": 0.000545
+    }
+}

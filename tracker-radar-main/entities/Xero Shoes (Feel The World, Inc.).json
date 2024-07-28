@@ -1,0 +1,12 @@
+{
+    "name": "Xero Shoes (Feel The World, Inc.)",
+    "displayName": "Xero Shoes (Feel The World, Inc.)",
+    "properties": [
+        "xeroshoes.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

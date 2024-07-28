@@ -1,0 +1,12 @@
+{
+    "name": "Unbxd Software Private Limited",
+    "displayName": "Unbxd Software",
+    "properties": [
+        "unbxdapi.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00017,
+        "nonTracking": 0.000497,
+        "total": 0.000667
+    }
+}

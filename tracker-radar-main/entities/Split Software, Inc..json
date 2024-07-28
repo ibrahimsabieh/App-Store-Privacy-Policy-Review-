@@ -1,0 +1,12 @@
+{
+    "name": "Split Software, Inc.",
+    "displayName": "Split Software",
+    "properties": [
+        "split.io"
+    ],
+    "prevalence": {
+        "tracking": 0.0000545,
+        "nonTracking": 0.000443,
+        "total": 0.000498
+    }
+}

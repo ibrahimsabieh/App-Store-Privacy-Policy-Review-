@@ -1,0 +1,12 @@
+{
+    "name": "Jeffers Vet Supply",
+    "displayName": "Jeffers Vet Supply",
+    "properties": [
+        "jefferspet.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

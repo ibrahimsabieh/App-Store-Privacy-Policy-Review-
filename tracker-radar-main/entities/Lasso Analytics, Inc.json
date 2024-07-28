@@ -1,0 +1,12 @@
+{
+    "name": "Lasso Analytics, Inc",
+    "displayName": "Lasso Analytics",
+    "properties": [
+        "getlasso.co"
+    ],
+    "prevalence": {
+        "tracking": 0.00217,
+        "nonTracking": 0.00000681,
+        "total": 0.00218
+    }
+}

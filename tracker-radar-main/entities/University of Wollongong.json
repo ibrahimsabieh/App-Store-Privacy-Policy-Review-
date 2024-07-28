@@ -1,0 +1,12 @@
+{
+    "name": "University of Wollongong",
+    "displayName": "University of Wollongong",
+    "properties": [
+        "uow.edu.au"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

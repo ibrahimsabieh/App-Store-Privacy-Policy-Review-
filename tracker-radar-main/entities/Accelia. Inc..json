@@ -1,0 +1,12 @@
+{
+    "name": "Accelia. Inc.",
+    "displayName": "Accelia",
+    "properties": [
+        "durasite.net"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000409,
+        "total": 0.0000409
+    }
+}

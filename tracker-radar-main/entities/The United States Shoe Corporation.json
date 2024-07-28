@@ -1,0 +1,12 @@
+{
+    "name": "The United States Shoe Corporation",
+    "displayName": "The United States Shoe",
+    "properties": [
+        "eyemedvisioncare.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

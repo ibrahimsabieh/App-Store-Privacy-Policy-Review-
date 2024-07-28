@@ -1,0 +1,12 @@
+{
+    "name": "Vidora, Inc.",
+    "displayName": "Vidora",
+    "properties": [
+        "vidora.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000817,
+        "nonTracking": 0.00000681,
+        "total": 0.0000885
+    }
+}

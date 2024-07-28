@@ -1,0 +1,12 @@
+{
+    "name": "SKAT",
+    "displayName": "SKAT",
+    "properties": [
+        "skat.dk"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Intercontinental Exchange, Inc.",
+    "displayName": "Intercontinental Exchange",
+    "properties": [
+        "nyse.com",
+        "theice.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

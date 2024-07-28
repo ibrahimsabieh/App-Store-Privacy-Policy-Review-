@@ -1,0 +1,13 @@
+{
+    "name": "EyeBuyDirect Inc.",
+    "displayName": "EyeBuyDirect",
+    "properties": [
+        "ebdcdn.com",
+        "eyebuydirect.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

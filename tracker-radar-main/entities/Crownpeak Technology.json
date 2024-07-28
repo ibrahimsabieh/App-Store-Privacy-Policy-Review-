@@ -1,0 +1,15 @@
+{
+    "name": "Crownpeak Technology",
+    "displayName": "Crownpeak",
+    "properties": [
+        "betrad.com",
+        "crownpeak.com",
+        "crownpeak.net",
+        "evidon.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00208,
+        "nonTracking": 0.000954,
+        "total": 0.00303
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "ZnanyLekarz Sp. z o. o.",
+    "displayName": "ZnanyLekarz",
+    "properties": [
+        "docplanner-platform.com",
+        "miodottore.it",
+        "znanylekarz.pl"
+    ],
+    "prevalence": {
+        "tracking": 0.00000672,
+        "nonTracking": 0,
+        "total": 0.00000672
+    }
+}

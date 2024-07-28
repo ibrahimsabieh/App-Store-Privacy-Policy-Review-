@@ -1,0 +1,13 @@
+{
+    "name": "The Goodyear Tire & Rubber Company",
+    "displayName": "The Goodyear Tire & Rubber Company",
+    "properties": [
+        "goodyear.com",
+        "goodyearautoservice.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

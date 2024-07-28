@@ -1,0 +1,12 @@
+{
+    "name": "The Score Inc",
+    "displayName": "The Score",
+    "properties": [
+        "thescore.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

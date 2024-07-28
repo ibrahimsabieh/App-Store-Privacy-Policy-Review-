@@ -1,0 +1,12 @@
+{
+    "name": "LUSH RETAIL LTD",
+    "displayName": "LUSH RETAIL",
+    "properties": [
+        "lush.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

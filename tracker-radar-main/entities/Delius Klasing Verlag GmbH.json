@@ -1,0 +1,12 @@
+{
+    "name": "Delius Klasing Verlag GmbH",
+    "displayName": "Delius Klasing Verlag",
+    "properties": [
+        "bike-magazin.de"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0,
+        "total": 0.00000682
+    }
+}

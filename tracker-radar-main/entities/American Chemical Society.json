@@ -1,0 +1,12 @@
+{
+    "name": "American Chemical Society",
+    "displayName": "American Chemical Society",
+    "properties": [
+        "acs.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

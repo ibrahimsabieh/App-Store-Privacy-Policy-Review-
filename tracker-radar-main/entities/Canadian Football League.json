@@ -1,0 +1,12 @@
+{
+    "name": "Canadian Football League",
+    "displayName": "Canadian Football League",
+    "properties": [
+        "cfl.ca"
+    ],
+    "prevalence": {
+        "tracking": 0.000201,
+        "nonTracking": 0,
+        "total": 0.000201
+    }
+}

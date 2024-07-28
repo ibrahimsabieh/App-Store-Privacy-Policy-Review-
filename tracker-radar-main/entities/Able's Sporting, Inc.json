@@ -1,0 +1,12 @@
+{
+    "name": "Able's Sporting, Inc",
+    "displayName": "Able's Sporting",
+    "properties": [
+        "ableammo.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

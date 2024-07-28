@@ -1,0 +1,12 @@
+{
+    "name": "Innovasjon Norge",
+    "displayName": "Innovasjon Norge",
+    "properties": [
+        "visitnorway.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000677,
+        "nonTracking": 0,
+        "total": 0.00000677
+    }
+}

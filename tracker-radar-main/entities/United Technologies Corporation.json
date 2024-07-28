@@ -1,0 +1,12 @@
+{
+    "name": "United Technologies Corporation",
+    "displayName": "United",
+    "properties": [
+        "carrier.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0,
+        "total": 0.00000682
+    }
+}

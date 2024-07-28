@@ -1,0 +1,14 @@
+{
+    "name": "Acxiom Corporation",
+    "displayName": "Acxiom",
+    "properties": [
+        "acxiom-online.com",
+        "acxiom.com",
+        "acxiomapac.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0.0000272,
+        "total": 0.0000408
+    }
+}

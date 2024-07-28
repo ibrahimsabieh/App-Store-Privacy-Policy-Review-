@@ -1,0 +1,12 @@
+{
+    "name": "The Royal Shakespeare Company",
+    "displayName": "The Royal Shakespeare Company",
+    "properties": [
+        "rsc.org.uk"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

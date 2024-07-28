@@ -1,0 +1,16 @@
+{
+    "name": "Nextdoor, Inc.",
+    "displayName": "Nextdoor",
+    "properties": [
+        "nextdoor.ca",
+        "nextdoor.co.uk",
+        "nextdoor.com",
+        "nextdoor.de",
+        "nextdoor.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.00354,
+        "nonTracking": 0.000157,
+        "total": 0.0037
+    }
+}

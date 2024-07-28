@@ -1,0 +1,12 @@
+{
+    "name": "Seeed Techonology Inc",
+    "displayName": "Seeed Techonology",
+    "properties": [
+        "seeedstudio.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

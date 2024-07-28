@@ -1,0 +1,12 @@
+{
+    "name": "The American Radio Relay League, Incorporated",
+    "displayName": "The American Radio Relay League",
+    "properties": [
+        "arrl.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

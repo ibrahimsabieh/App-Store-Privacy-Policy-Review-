@@ -1,0 +1,14 @@
+{
+    "name": "PFIP, LLC",
+    "displayName": "Planet Fitness",
+    "properties": [
+        "pfhq.com",
+        "planetfitness.ca",
+        "planetfitness.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000672,
+        "nonTracking": 0,
+        "total": 0.00000672
+    }
+}

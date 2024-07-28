@@ -1,0 +1,13 @@
+{
+    "name": "MediaSniper",
+    "displayName": "MediaSniper",
+    "properties": [
+        "bumlam.com",
+        "mediasniper.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.000463,
+        "nonTracking": 0.00079,
+        "total": 0.00125
+    }
+}

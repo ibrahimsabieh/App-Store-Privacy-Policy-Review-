@@ -1,0 +1,13 @@
+{
+    "name": "Department of Jobs and Small Business",
+    "displayName": "Department of Jobs and Small Business",
+    "properties": [
+        "fairwork.gov.au",
+        "training.gov.au"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

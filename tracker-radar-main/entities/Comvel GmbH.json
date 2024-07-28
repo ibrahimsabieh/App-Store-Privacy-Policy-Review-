@@ -1,0 +1,13 @@
+{
+    "name": "Comvel GmbH",
+    "displayName": "Comvel",
+    "properties": [
+        "comvel.media",
+        "weg.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

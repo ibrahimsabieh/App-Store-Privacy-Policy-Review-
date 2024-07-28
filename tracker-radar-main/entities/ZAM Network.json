@@ -1,0 +1,16 @@
+{
+    "name": "ZAM Network",
+    "displayName": "ZAM Network",
+    "properties": [
+        "allakhazam.com",
+        "lolking.net",
+        "wowhead.com",
+        "zam.com",
+        "zamimg.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000136,
+        "nonTracking": 0.0000409,
+        "total": 0.000177
+    }
+}

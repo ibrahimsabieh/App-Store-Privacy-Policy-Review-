@@ -1,0 +1,12 @@
+{
+    "name": "Soostone Inc",
+    "displayName": "Soostone",
+    "properties": [
+        "widengle.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000143,
+        "nonTracking": 0.0000409,
+        "total": 0.000184
+    }
+}

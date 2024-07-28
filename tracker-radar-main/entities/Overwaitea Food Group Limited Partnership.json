@@ -1,0 +1,13 @@
+{
+    "name": "Overwaitea Food Group Limited Partnership",
+    "displayName": "Overwaitea Food Group Limited Partnership",
+    "properties": [
+        "goestheextramile.com",
+        "saveonfoods.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

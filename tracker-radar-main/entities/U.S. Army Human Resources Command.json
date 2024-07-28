@@ -1,0 +1,12 @@
+{
+    "name": "U.S. Army Human Resources Command",
+    "displayName": "U.S. Army Human Resources Command",
+    "properties": [
+        "goarmy.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

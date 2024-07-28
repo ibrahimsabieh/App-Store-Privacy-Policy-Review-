@@ -1,0 +1,13 @@
+{
+    "name": "Alfred Kaercher GmbH & Co. KG",
+    "displayName": "Alfred Kaercher GmbH & Co. KG",
+    "properties": [
+        "kaercher-media.com",
+        "kaercher.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000672,
+        "nonTracking": 0,
+        "total": 0.00000672
+    }
+}

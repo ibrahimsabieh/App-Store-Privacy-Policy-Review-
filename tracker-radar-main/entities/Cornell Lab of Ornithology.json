@@ -1,0 +1,14 @@
+{
+    "name": "Cornell Lab of Ornithology",
+    "displayName": "Cornell Lab of Ornithology",
+    "properties": [
+        "allaboutbirds.net",
+        "allaboutbirds.org",
+        "ebird.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000272,
+        "nonTracking": 0,
+        "total": 0.0000272
+    }
+}

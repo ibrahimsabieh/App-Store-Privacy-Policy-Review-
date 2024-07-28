@@ -1,0 +1,135 @@
+{ 
+  "managePrivacyChoicesUrl": null,
+  "privacyTypes": [
+    {
+      "privacyType": "Data Linked to You",
+      "identifier": "DATA_LINKED_TO_YOU",
+      "description": "The following data, which may be collected and linked to your identity, may be used for the following purposes:",
+      "dataCategories": [],
+      "purposes": [
+        {
+          "purpose": "Developer’s Advertising or Marketing",
+          "identifier": "DEVELOPERS_ADVERTISING",
+          "dataCategories": [
+            {
+              "dataCategory": "Purchases",
+              "identifier": "PURCHASES",
+              "dataTypes": [
+                "Purchase History"
+              ]
+            },
+            {
+              "dataCategory": "Contact Info",
+              "identifier": "CONTACT_INFO",
+              "dataTypes": [
+                "Physical Address",
+                "Email Address",
+                "Name",
+                "Phone Number",
+                "Other User Contact Info"
+              ]
+            },
+            {
+              "dataCategory": "Identifiers",
+              "identifier": "IDENTIFIERS",
+              "dataTypes": [
+                "User ID"
+              ]
+            },
+            {
+              "dataCategory": "Sensitive Info",
+              "identifier": "SENSITIVE_INFO",
+              "dataTypes": [
+                "Sensitive Info"
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "Analytics",
+          "identifier": "ANALYTICS",
+          "dataCategories": [
+            {
+              "dataCategory": "Purchases",
+              "identifier": "PURCHASES",
+              "dataTypes": [
+                "Purchase History"
+              ]
+            },
+            {
+              "dataCategory": "Identifiers",
+              "identifier": "IDENTIFIERS",
+              "dataTypes": [
+                "User ID"
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "Product Personalization",
+          "identifier": "PRODUCT_PERSONALIZATION",
+          "dataCategories": [
+            {
+              "dataCategory": "Purchases",
+              "identifier": "PURCHASES",
+              "dataTypes": [
+                "Purchase History"
+              ]
+            },
+            {
+              "dataCategory": "Location",
+              "identifier": "LOCATION",
+              "dataTypes": [
+                "Coarse Location"
+              ]
+            },
+            {
+              "dataCategory": "Identifiers",
+              "identifier": "IDENTIFIERS",
+              "dataTypes": [
+                "User ID"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "privacyType": "Data Not Linked to You",
+      "identifier": "DATA_NOT_LINKED_TO_YOU",
+      "description": "The following data, which may be collected but is not linked to your identity, may be used for the following purposes:",
+      "dataCategories": [],
+      "purposes": [
+        {
+          "purpose": "Analytics",
+          "identifier": "ANALYTICS",
+          "dataCategories": [
+            {
+              "dataCategory": "Search History",
+              "identifier": "SEARCH_HISTORY",
+              "dataTypes": [
+                "Search History"
+              ]
+            },
+            {
+              "dataCategory": "Usage Data",
+              "identifier": "USAGE_DATA",
+              "dataTypes": [
+                "Product Interaction"
+              ]
+            },
+            {
+              "dataCategory": "Diagnostics",
+              "identifier": "DIAGNOSTICS",
+              "dataTypes": [
+                "Crash Data",
+                "Performance Data",
+                "Other Diagnostic Data"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

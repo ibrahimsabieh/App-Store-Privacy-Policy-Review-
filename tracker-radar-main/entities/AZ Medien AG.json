@@ -1,0 +1,14 @@
+{
+    "name": "AZ Medien AG",
+    "displayName": "AZ Medien",
+    "properties": [
+        "aargauerzeitung.ch",
+        "swissmom.ch",
+        "wildeisen.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

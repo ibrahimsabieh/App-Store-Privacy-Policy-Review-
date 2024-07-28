@@ -1,0 +1,12 @@
+{
+    "name": "Nederlands Huisartsen Genootschap",
+    "displayName": "Nederlands Huisartsen Genootschap",
+    "properties": [
+        "nhg.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000672,
+        "nonTracking": 0,
+        "total": 0.00000672
+    }
+}

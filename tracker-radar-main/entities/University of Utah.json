@@ -1,0 +1,12 @@
+{
+    "name": "University of Utah",
+    "displayName": "University of Utah",
+    "properties": [
+        "utah.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0,
+        "total": 0.00000682
+    }
+}

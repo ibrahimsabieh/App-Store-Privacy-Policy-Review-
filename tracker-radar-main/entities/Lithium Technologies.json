@@ -1,0 +1,13 @@
+{
+    "name": "Lithium Technologies",
+    "displayName": "Lithium",
+    "properties": [
+        "lcloud.com",
+        "lithium.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000143,
+        "nonTracking": 0.0003,
+        "total": 0.000443
+    }
+}

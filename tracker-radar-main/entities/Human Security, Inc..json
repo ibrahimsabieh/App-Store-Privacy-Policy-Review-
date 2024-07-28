@@ -1,0 +1,40 @@
+{
+    "name": "Human Security, Inc.",
+    "displayName": "Human Security",
+    "properties": [
+        "acexedge.com",
+        "adlookr.com",
+        "admathhd.com",
+        "adnxtr.com",
+        "adsrvs.com",
+        "adsximg.com",
+        "adxyield.com",
+        "adzmath.com",
+        "clcktrax.com",
+        "clean.gg",
+        "clean.io",
+        "humansecurity.com",
+        "iaudienc.com",
+        "imgsynd.com",
+        "mrmserve.com",
+        "ninjapd.com",
+        "perimeterx.com",
+        "perimeterx.net",
+        "pkthop.com",
+        "px-cdn.net",
+        "px-client.net",
+        "px-cloud.net",
+        "pxi.pub",
+        "pxltgr.com",
+        "srvmath.com",
+        "tagsrvcs.com",
+        "tpctrust.com",
+        "tworismo.com",
+        "whiteops.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00214,
+        "nonTracking": 0.0261,
+        "total": 0.0282
+    }
+}

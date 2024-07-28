@@ -1,0 +1,12 @@
+{
+    "name": "COOP NORGE SA",
+    "displayName": "COOP NORGE",
+    "properties": [
+        "coop.no"
+    ],
+    "prevalence": {
+        "tracking": 0.000201,
+        "nonTracking": 0,
+        "total": 0.000201
+    }
+}

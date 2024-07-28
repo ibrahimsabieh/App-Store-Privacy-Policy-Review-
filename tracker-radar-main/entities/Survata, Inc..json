@@ -1,0 +1,12 @@
+{
+    "name": "Survata, Inc.",
+    "displayName": "Survata",
+    "properties": [
+        "survata.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000204,
+        "nonTracking": 0.0000886,
+        "total": 0.000109
+    }
+}

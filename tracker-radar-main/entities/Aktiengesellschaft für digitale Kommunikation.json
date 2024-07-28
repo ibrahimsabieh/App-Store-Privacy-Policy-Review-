@@ -1,0 +1,12 @@
+{
+    "name": "Aktiengesellschaft für digitale Kommunikation",
+    "displayName": "Aktiengesellschaft für digitale Kommunikation",
+    "properties": [
+        "init-ag.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

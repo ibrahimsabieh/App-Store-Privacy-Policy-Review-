@@ -1,0 +1,13 @@
+{
+    "name": "Shareasale.com",
+    "displayName": "Shareasale.com",
+    "properties": [
+        "shareasale-analytics.com",
+        "shareasale.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00143,
+        "nonTracking": 0.000518,
+        "total": 0.00195
+    }
+}

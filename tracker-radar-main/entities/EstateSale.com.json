@@ -1,0 +1,13 @@
+{
+    "name": "EstateSale.com",
+    "displayName": "EstateSale.com",
+    "properties": [
+        "esgtphotos.com",
+        "estatesale.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

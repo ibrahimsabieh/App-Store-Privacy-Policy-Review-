@@ -1,0 +1,16 @@
+{
+    "name": "Sky Network Television Limited",
+    "displayName": "Sky Network Television",
+    "properties": [
+        "sky.co.nz",
+        "skyadvertising.nz",
+        "skybusiness.co.nz",
+        "skygo.co.nz",
+        "skysportnow.co.nz"
+    ],
+    "prevalence": {
+        "tracking": 0.0000135,
+        "nonTracking": 0,
+        "total": 0.0000135
+    }
+}

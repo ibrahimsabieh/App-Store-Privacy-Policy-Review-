@@ -1,0 +1,12 @@
+{
+    "name": "MailerLite, Inc.",
+    "displayName": "MailerLite",
+    "properties": [
+        "mailerlite.com"
+    ],
+    "prevalence": {
+        "tracking": 0.002,
+        "nonTracking": 0.00223,
+        "total": 0.00423
+    }
+}

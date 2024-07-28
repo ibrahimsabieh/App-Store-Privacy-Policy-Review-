@@ -1,0 +1,14 @@
+{
+    "name": "WizRocket Inc.",
+    "displayName": "WizRocket",
+    "properties": [
+        "clevertap-prod.com",
+        "clevertap.com",
+        "wzrkt.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000204,
+        "nonTracking": 0.000613,
+        "total": 0.000633
+    }
+}

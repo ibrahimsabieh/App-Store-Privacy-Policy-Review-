@@ -1,0 +1,13 @@
+{
+    "name": "Yummly, Inc",
+    "displayName": "Yummly",
+    "properties": [
+        "yumm.ly",
+        "yummly.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000143,
+        "nonTracking": 0,
+        "total": 0.000143
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "GoKarts USA",
+    "displayName": "GoKarts USA",
+    "properties": [
+        "gokartsusa.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000672,
+        "nonTracking": 0,
+        "total": 0.00000672
+    }
+}

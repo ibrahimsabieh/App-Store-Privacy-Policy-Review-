@@ -1,0 +1,12 @@
+{
+    "name": "Duration Media LLC",
+    "displayName": "Duration Media",
+    "properties": [
+        "durationmedia.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00409,
+        "nonTracking": 0.00381,
+        "total": 0.0079
+    }
+}

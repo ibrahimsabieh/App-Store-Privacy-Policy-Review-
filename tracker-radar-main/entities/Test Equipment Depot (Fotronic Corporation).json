@@ -1,0 +1,12 @@
+{
+    "name": "Test Equipment Depot (Fotronic Corporation)",
+    "displayName": "Test Equipment Depot (Fotronic Corporation)",
+    "properties": [
+        "testequipmentdepot.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

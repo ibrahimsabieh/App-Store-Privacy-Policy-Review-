@@ -1,0 +1,12 @@
+{
+    "name": "Touch Networks Pty Ltd",
+    "displayName": "Touch Networks",
+    "properties": [
+        "secure-afterpay.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0.0000409,
+        "total": 0.0000477
+    }
+}

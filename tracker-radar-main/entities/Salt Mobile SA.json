@@ -1,0 +1,12 @@
+{
+    "name": "Salt Mobile SA",
+    "displayName": "Salt Mobile",
+    "properties": [
+        "salt.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.000201,
+        "nonTracking": 0,
+        "total": 0.000201
+    }
+}

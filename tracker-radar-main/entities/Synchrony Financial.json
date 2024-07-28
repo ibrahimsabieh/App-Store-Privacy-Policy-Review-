@@ -1,0 +1,22 @@
+{
+    "name": "Synchrony Financial",
+    "displayName": "Synchrony Financial",
+    "properties": [
+        "carecredit.com",
+        "mysynchrony.com",
+        "onlinecreditcenter2.com",
+        "onlinecreditcenter6.com",
+        "syf.com",
+        "syfskillsacademy.com",
+        "synchrony.com",
+        "synchronybank.com",
+        "synchronycredit.com",
+        "synchronyfinancial.com",
+        "synchronyskillsacademy.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000157,
+        "nonTracking": 0.0000613,
+        "total": 0.000218
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "JetBlue Airways Corporation",
+    "displayName": "JetBlue Airways",
+    "properties": [
+        "jetblue.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

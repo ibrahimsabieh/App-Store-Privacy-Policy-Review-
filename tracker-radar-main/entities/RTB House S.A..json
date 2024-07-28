@@ -1,0 +1,14 @@
+{
+    "name": "RTB House S.A.",
+    "displayName": "RTB House",
+    "properties": [
+        "creativecdn.com",
+        "inventorycdn.com",
+        "rtbhouse.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0976,
+        "nonTracking": 0.00592,
+        "total": 0.104
+    }
+}

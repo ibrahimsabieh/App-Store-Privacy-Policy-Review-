@@ -1,0 +1,13 @@
+{
+    "name": "So-net Media Networks Corporation.",
+    "displayName": "So-net Media Networks",
+    "properties": [
+        "ladsp.com",
+        "ladsp.jp"
+    ],
+    "prevalence": {
+        "tracking": 0.00223,
+        "nonTracking": 0.000163,
+        "total": 0.00239
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "HP Inc",
+    "displayName": "HP",
+    "properties": [
+        "arubanetworks.com",
+        "dxcdynamics.com",
+        "hp.com",
+        "hpconnected.com",
+        "hpe.com",
+        "hpsmart.com",
+        "hyperx.com",
+        "hyperxgaming.com",
+        "omen.com",
+        "poly.com",
+        "www8-hp.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Jack Henry and Associates Inc.",
+    "displayName": "Jack Henry and Associates",
+    "properties": [
+        "netteller.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0.0000136,
+        "total": 0.0000204
+    }
+}

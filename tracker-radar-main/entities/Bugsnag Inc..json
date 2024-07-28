@@ -1,0 +1,12 @@
+{
+    "name": "Bugsnag Inc.",
+    "displayName": "Bugsnag",
+    "properties": [
+        "bugsnag.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0.00609,
+        "total": 0.0061
+    }
+}
